@@ -10,9 +10,9 @@ Google+ & Picasa Photo Albums on your website - Jquery plugin
 Screenshots
 ========
 
-![alt tag](https://2.bp.blogspot.com/-CZbdSEDtGfI/V3ITVzI38vI/AAAAAAAACBE/9kQpHT1gCu0yOPORzZXStqqi0Qkryg5eQCLcB/s1600/pmax_screen1.png)
+![alt tag](https://2.bp.blogspot.com/-CZbdSEDtGfI/V3ITVzI38vI/AAAAAAAACBE/9kQpHT1gCu0yOPORzZXStqqi0Qkryg5eQCLcB/s800/pmax_screen1.png)
 <br><br>
-![alt tag](https://2.bp.blogspot.com/-RSYz66Hn9-w/V3ITV96qAbI/AAAAAAAACBA/Izy5c83xBAogdBXIHm1U9qZpBwN3NWFqgCLcB/s1600/pmax_screen2.png)
+![alt tag](https://2.bp.blogspot.com/-RSYz66Hn9-w/V3ITV96qAbI/AAAAAAAACBA/Izy5c83xBAogdBXIHm1U9qZpBwN3NWFqgCLcB/s800/pmax_screen2.png)
 
 
 Benefits
