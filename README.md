@@ -4,7 +4,6 @@ Pimax
 Google+ & Picasa Photo Albums on your website - Jquery plugin 
 
 <b>Download:</b> http://www.codehandling.com/p/codehandling-free-plugins.html <br>
-<br>
 <b>Documentation:</b> http://www.codehandling.com/2015/03/pimax-20-embed-google-plus-picasa-album.html#googleapikey<br>
 <b>Demo:</b> http://demos.codehandling.com/pimax_demo/pimax_live_edit.html<br>
 
